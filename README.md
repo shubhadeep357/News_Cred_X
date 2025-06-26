@@ -65,4 +65,7 @@ Both datasets include columns like:
 ---
 
 ## 📊 Output Example
+<p align="center">
+  <img src="output.png" alt="Stock Market Prediction" />
+</p>
 
